@@ -77,3 +77,7 @@ function ocultarDetalles(){
     botonMostrar.style.display = "block";
     botonOcultar.style.display = "none";
 }
+
+function agregarAFavoritos(){
+    let tabla = document.getElementById()
+}
