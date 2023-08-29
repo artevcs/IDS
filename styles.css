@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.boton{
+    margin-top: 3px;
+    background-color: darkgray;
+    border: 1px solid gray;
+    padding: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.ficha{
+    margin-top: 20px;
+}
+
+.campo{
+    margin-top: 3px;
+    background-color:aquamarine;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.oculto{
+    display: none;
+}
