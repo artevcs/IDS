@@ -1,25 +1,10 @@
-*{
-    font-family: Arial, Helvetica, sans-serif;
+.centrado{
+    margin-right: auto;
+    margin-left: auto;
 }
 
-.boton{
-    margin-top: 3px;
-    background-color: darkgray;
-    border: 1px solid gray;
-    padding: 5px;
-    cursor: pointer;
-    border-radius: 3px;
-}
-
-.ficha{
-    margin-top: 20px;
-}
-
-.campo{
-    margin-top: 3px;
-    background-color:aquamarine;
-    padding: 5px;
-    border-radius: 3px;
+.contenedor600{
+    max-width: 600px;
 }
 
 .oculto{
